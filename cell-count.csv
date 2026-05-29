@@ -1,0 +1,14 @@
+project	subject	condition	age	sex	treatment	response	sample	sample_type	time_from_treatment_start	b_cell	cd8_t_cell	cd4_t_cell	nk_cell	monocyte
+prj1	sbj000	melanoma	57	M	miraclib	no	sample00000	PBMC	0	13238	8912	8204	14074	10253
+prj1	sbj001	melanoma	62	F	miraclib	yes	sample00001	PBMC	0	10006	12776	9143	14033	8839
+prj1	sbj002	melanoma	45	M	miraclib	yes	sample00002	PBMC	0	13543	18287	12467	8712	12837
+prj1	sbj003	melanoma	51	F	miraclib	no	sample00003	PBMC	0	11456	8260	8244	8767	9791
+prj2	sbj004	melanoma	48	M	miraclib	yes	sample00004	PBMC	0	9905	15780	12931	8217	12597
+prj2	sbj005	melanoma	55	F	miraclib	no	sample00005	PBMC	0	9628	13865	13323	13745	12464
+prj2	sbj006	melanoma	60	M	miraclib	yes	sample00006	PBMC	0	11436	12746	11679	12827	10278
+prj2	sbj007	melanoma	44	F	miraclib	no	sample00007	PBMC	0	14630	8053	14216	14601	9307
+prj1	sbj000	melanoma	57	M	miraclib	no	sample00008	PBMC	14	12719	10462	9787	9276	8273
+prj1	sbj001	melanoma	62	F	miraclib	yes	sample00009	PBMC	14	8763	13254	9757	7837	7759
+prj1	sbj002	melanoma	45	M	miraclib	yes	sample00010	PBMC	14	10112	7792	9940	13942	9817
+prj1	sbj003	melanoma	51	F	miraclib	no	sample00011	PBMC	14	11945	9166	13611	7355	12977
+prj1	sbj100	lung	65	M	placebo	no	sample00012	PBMC	0	9000	20000	18000	12000	22000
